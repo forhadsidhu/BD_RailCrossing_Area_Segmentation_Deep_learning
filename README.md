@@ -21,4 +21,4 @@
 ### Limitation
 ***It is trained on CPU using 10 epoch. so Using the pretrained weight may not predict diserable output.***
  
-# :smile: Happy ~~Coding~~ Contribution :two_hearts::two_hearts::two_hearts::two_hearts::two_hearts::two_hearts::two_hearts:
+# :smile: Happy ~~Coding~~ Contributing :two_hearts::two_hearts::two_hearts::two_hearts::two_hearts::two_hearts::two_hearts:
